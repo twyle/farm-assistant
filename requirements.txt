@@ -1,0 +1,8 @@
+chainlit
+openai
+langchain
+googlemaps
+jupyter 
+notebook
+torch
+torchvision
