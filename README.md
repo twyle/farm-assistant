@@ -9,7 +9,7 @@ An application that helps farmers monitor the health level of their crops.
 
 ## Getting Started
 
-You will need an openai API key, a Google Maps API key and the trained model. You can dowload the model at this [Google Drive]().
+You will need an openai API key, a Google Maps API key and the trained model. You can dowload the model at this [Google Drive](https://drive.google.com/file/d/1SKRPurbYr31-7cfCIq3IRkIHN783axpK/view?usp=sharing).
 
 1. Clone the project repo:
 
