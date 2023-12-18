@@ -61,7 +61,7 @@ async def start():
         msg = cl.Message(content="")
         await msg.send()
         await cl.sleep(1)
-        msg.content = agent.run('Tell me some facts about the maize disease leaf rust especially in relation to kenya.')
+        msg.content = agent.run(f'Tell me some facts about the maize disease {predicted_label} especially in relation to kenya.')
         await msg.update()
         await msg.send()
         await cl.sleep(1)
